@@ -6,7 +6,7 @@
 - **NIM:** `2607422007`
 - **Kelas:** TMJ CCIT 1A
 - **Program Studi:** D4 Teknik Multimedia dan Jaringan, Jurusan Teknik Informatika dan Komputer, Politeknik Negeri Jakarta
-- **Kelompok:** 5 The Last Of Us
+- **Kelompok:** 5 TLOU
 
 ## Deskripsi Repository
 
